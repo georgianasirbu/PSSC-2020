@@ -1,0 +1,17 @@
+StackOverflow este o aplicatie care ajuta programatorii. Aceasta serveste 120 milioane de oameni in fiecare luna, fiind unul dintre 
+cele mai populare website-uri din lume.
+
+Poate fi folosita:
+-ca platforma publica unde programatorii isi impartasesc cunostintele
+-pentru echipe
+-ca locul unde companiile isi atrag si recruteaza programatori si unde acestia din urma isi gasesc job-uri
+-in publicitate
+
+Fuctionalitati:
+-poti sa gasesti cu usurinta raspunsuri la intrebarile tale, ii poti ajuta pe altii daca stii
+-iti poti gasi un loc de munca 
+-poti lucra alaturi de alte persoane
+-te poti autentifica
+-poti sorta intrebarile in functie de ce doresti sa citesti prima data
+-poti cauta informatii referitoare la un anumit subiect folosind tag-urile
+-poti vedea utilizatorii in functie de reputatie, voturi etc
